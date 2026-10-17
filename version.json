@@ -1,11 +1,11 @@
 {
   "fitgym": {
-    "version": "1.1.0",
-    "build": 2,
+    "version": "1.1.1",
+    "build": 3,
     "minBuild": 0,
-    "notes": "Respaldo automático, cinco diseños, logos completos y aviso de versiones nuevas.",
+    "notes": "Versión de prueba del aviso de actualización.",
     "sizeMb": 89,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.1.0/FitGym-1.1.0.apk"
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.1.1/FitGym-1.1.1.apk"
   },
   "fitgym_gimnasio": {
     "version": "1.1.0",
