@@ -1,11 +1,11 @@
 {
   "fitgym": {
-    "version": "1.2.6",
-    "build": 13,
+    "version": "1.2.11",
+    "build": 18,
     "minBuild": 0,
-    "notes": "Muñecos para todo el catálogo, conversión kg/lb, nuevo botón Finalizar y avisos si la sesión queda abierta.",
+    "notes": "Avisos del descanso con la pantalla apagada, cronómetro grande en el centro, rellenar pesos en cada serie y vuelve el Gato.",
     "sizeMb": 87,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.2.6/FitGym-1.2.6.apk"
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.2.11/FitGym-1.2.11.apk"
   },
   "fitgym_gimnasio": {
     "version": "1.1.0",
