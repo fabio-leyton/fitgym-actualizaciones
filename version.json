@@ -1,11 +1,11 @@
 {
   "fitgym": {
-    "version": "1.2.11",
-    "build": 18,
+    "version": "1.5.4",
+    "build": 30,
     "minBuild": 0,
-    "notes": "Avisos del descanso con la pantalla apagada, cronómetro grande en el centro, rellenar pesos en cada serie y vuelve el Gato.",
+    "notes": "Logros con medallas, celebraciones de récords y logros, resumen al terminar y mejoras en Hoy.",
     "sizeMb": 87,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.2.11/FitGym-1.2.11.apk"
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.5.4/FitGym-1.5.4.apk"
   },
   "fitgym_gimnasio": {
     "version": "1.1.0",
