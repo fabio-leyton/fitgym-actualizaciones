@@ -1,11 +1,17 @@
 {
   "fitgym": {
-    "version": "1.5.4",
-    "build": 30,
+    "version": "1.5.8",
+    "build": 34,
     "minBuild": 0,
-    "notes": "Logros con medallas, celebraciones de récords y logros, resumen al terminar y mejoras en Hoy.",
+    "notes": "Novedades al actualizar, Ajustes y Ejercicios a pantalla completa y botón En curso siempre a mano.",
     "sizeMb": 87,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.5.4/FitGym-1.5.4.apk"
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.5.8/FitGym-1.5.8.apk",
+    "highlights": [
+      "Pantalla de novedades después de cada actualización",
+      "Ajustes y Ejercicios a pantalla completa",
+      "Botón En curso para volver a tu entrenamiento desde cualquier pantalla",
+      "Novedades en lista en este aviso"
+    ]
   },
   "fitgym_gimnasio": {
     "version": "1.1.0",
