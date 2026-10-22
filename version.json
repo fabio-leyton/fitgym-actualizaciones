@@ -1,16 +1,16 @@
 {
   "fitgym": {
-    "version": "1.5.8",
-    "build": 34,
+    "version": "1.5.10",
+    "build": 36,
     "minBuild": 0,
-    "notes": "Novedades al actualizar, Ajustes y Ejercicios a pantalla completa y botón En curso siempre a mano.",
+    "notes": "Iniciar y Entrenar preguntan antes de empezar y respetan el día que estás viendo.",
     "sizeMb": 87,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.5.8/FitGym-1.5.8.apk",
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.5.10/FitGym-1.5.10.apk",
     "highlights": [
-      "Pantalla de novedades después de cada actualización",
-      "Ajustes y Ejercicios a pantalla completa",
-      "Botón En curso para volver a tu entrenamiento desde cualquier pantalla",
-      "Novedades en lista en este aviso"
+      "Los botones Iniciar y Entrenar hacen lo mismo",
+      "Siempre preguntan antes de empezar, por si se tocan sin querer",
+      "Si estás viendo otro día, eliges qué rutina entrenar",
+      "Aviso de empezar más claro, con botones grandes"
     ]
   },
   "fitgym_gimnasio": {
