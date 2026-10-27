@@ -22,5 +22,16 @@
     "notes": "Aviso de versiones nuevas.",
     "sizeMb": 54,
     "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.1.0/FitGym-Gimnasio-1.1.0.apk"
+  },
+  "fitgym_gimnasio_pc": {
+    "version": "1.2.0",
+    "build": 3,
+    "minBuild": 0,
+    "notes": "Primera versión para computador.",
+    "sizeMb": 11,
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/gimnasio-pc-v1.2.0/FitGym-Gimnasio-PC-1.2.0.exe",
+    "highlights": [
+      "Activa los códigos de los clientes desde el computador de la sede"
+    ]
   }
 }
