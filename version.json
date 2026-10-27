@@ -1,16 +1,18 @@
 {
   "fitgym": {
-    "version": "1.5.10",
-    "build": 36,
+    "version": "1.6.5",
+    "build": 43,
     "minBuild": 0,
-    "notes": "Iniciar y Entrenar preguntan antes de empezar y respetan el día que estás viendo.",
+    "notes": "Pausa automática si olvidas finalizar, descanso corto antes de estirar y dibujos nuevos.",
     "sizeMb": 87,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.5.10/FitGym-1.5.10.apk",
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.5/FitGym-1.6.5.apk",
     "highlights": [
-      "Los botones Iniciar y Entrenar hacen lo mismo",
-      "Siempre preguntan antes de empezar, por si se tocan sin querer",
-      "Si estás viendo otro día, eliges qué rutina entrenar",
-      "Aviso de empezar más claro, con botones grandes"
+      "Pausa automática: tras 5 minutos sin anotar nada el tiempo deja de contar",
+      "Si olvidas finalizar, se guarda solo hasta tu última serie",
+      "Los logros y estadísticas solo cuentan lo que de verdad entrenaste",
+      "Descanso de 1 minuto antes de estirar",
+      "Dibujos nuevos y con movimiento en varios ejercicios",
+      "Arreglado el reloj repetido en Logros y otras pantallas"
     ]
   },
   "fitgym_gimnasio": {
