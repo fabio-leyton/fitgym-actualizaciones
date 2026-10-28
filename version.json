@@ -1,15 +1,15 @@
 {
   "fitgym": {
-    "version": "1.6.6",
-    "build": 44,
+    "version": "1.6.7",
+    "build": 45,
     "minBuild": 0,
-    "notes": "Unos segundos para acomodarte antes del segundo lado en los ejercicios por tiempo con cada lado.",
+    "notes": "El respaldo automático ahora es uno por día, solo los días que entrenas y antes de actualizar.",
     "sizeMb": 88,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.6/FitGym-1.6.6.apk",
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.7/FitGym-1.6.7.apk",
     "highlights": [
-      "Tiempo para acomodarte antes del segundo lado (plancha lateral, estiramientos)",
-      "Elige 3, 5 o 10 segundos en Ajustes → Entrenamiento",
-      "Botón \"Empezar ya\" si estás listo antes"
+      "Un solo respaldo por día en Descargas/FitGym/Respaldos",
+      "Se hace solo los días que entrenas y antes de actualizar",
+      "Quedan tus últimos 5 días de entrenamiento"
     ]
   },
   "fitgym_gimnasio": {
