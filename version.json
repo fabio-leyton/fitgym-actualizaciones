@@ -1,18 +1,15 @@
 {
   "fitgym": {
-    "version": "1.6.5",
-    "build": 43,
+    "version": "1.6.6",
+    "build": 44,
     "minBuild": 0,
-    "notes": "Pausa automática si olvidas finalizar, descanso corto antes de estirar y dibujos nuevos.",
-    "sizeMb": 87,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.5/FitGym-1.6.5.apk",
+    "notes": "Unos segundos para acomodarte antes del segundo lado en los ejercicios por tiempo con cada lado.",
+    "sizeMb": 88,
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.6/FitGym-1.6.6.apk",
     "highlights": [
-      "Pausa automática: tras 5 minutos sin anotar nada el tiempo deja de contar",
-      "Si olvidas finalizar, se guarda solo hasta tu última serie",
-      "Los logros y estadísticas solo cuentan lo que de verdad entrenaste",
-      "Descanso de 1 minuto antes de estirar",
-      "Dibujos nuevos y con movimiento en varios ejercicios",
-      "Arreglado el reloj repetido en Logros y otras pantallas"
+      "Tiempo para acomodarte antes del segundo lado (plancha lateral, estiramientos)",
+      "Elige 3, 5 o 10 segundos en Ajustes → Entrenamiento",
+      "Botón \"Empezar ya\" si estás listo antes"
     ]
   },
   "fitgym_gimnasio": {
