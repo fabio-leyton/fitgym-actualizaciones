@@ -1,34 +1,39 @@
 {
   "fitgym": {
-    "version": "1.6.7",
-    "build": 45,
+    "version": "1.6.8",
+    "build": 46,
     "minBuild": 0,
-    "notes": "El respaldo automático ahora es uno por día, solo los días que entrenas y antes de actualizar.",
+    "notes": "La unidad de peso que cambias durante el entrenamiento se queda para las próximas veces.",
     "sizeMb": 88,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.7/FitGym-1.6.7.apk",
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.8/FitGym-1.6.8.apk",
     "highlights": [
-      "Un solo respaldo por día en Descargas/FitGym/Respaldos",
-      "Se hace solo los días que entrenas y antes de actualizar",
-      "Quedan tus últimos 5 días de entrenamiento"
+      "Si cambias un ejercicio a libras, kilos o bloques en pleno entrenamiento, la próxima vez sale igual",
+      "Ya no hace falta editar el ejercicio para cambiar su unidad"
     ]
   },
   "fitgym_gimnasio": {
-    "version": "1.1.0",
-    "build": 2,
+    "version": "1.3.0",
+    "build": 4,
     "minBuild": 0,
-    "notes": "Aviso de versiones nuevas.",
-    "sizeMb": 54,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.1.0/FitGym-Gimnasio-1.1.0.apk"
+    "notes": "Diseño nuevo, igual al de FitGym.",
+    "sizeMb": 51,
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/gimnasio-v1.3.0/FitGym-Gimnasio-1.3.0.apk",
+    "highlights": [
+      "Diseño nuevo, igual al de FitGym",
+      "Activar y Clientes en pestañas separadas",
+      "Historial con etiqueta de Vigente o Vencido"
+    ]
   },
   "fitgym_gimnasio_pc": {
-    "version": "1.2.0",
-    "build": 3,
+    "version": "1.3.0",
+    "build": 4,
     "minBuild": 0,
-    "notes": "Primera versión para computador.",
+    "notes": "Diseño nuevo, igual al de FitGym.",
     "sizeMb": 11,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/gimnasio-pc-v1.2.0/FitGym-Gimnasio-PC-1.2.0.exe",
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/gimnasio-pc-v1.3.0/FitGym-Gimnasio-PC-1.3.0.exe",
     "highlights": [
-      "Activa los códigos de los clientes desde el computador de la sede"
+      "Diseño nuevo, igual al de FitGym",
+      "Historial con etiqueta de Vigente o Vencido"
     ]
   }
 }
