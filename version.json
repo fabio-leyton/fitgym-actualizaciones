@@ -1,14 +1,17 @@
 {
   "fitgym": {
-    "version": "1.6.8",
-    "build": 46,
+    "version": "1.6.14",
+    "build": 52,
     "minBuild": 0,
-    "notes": "La unidad de peso que cambias durante el entrenamiento se queda para las próximas veces.",
+    "notes": "Entrenamiento más ordenado: solo se abre el ejercicio que estás haciendo y el muñeco se ve más grande.",
     "sizeMb": 88,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.8/FitGym-1.6.8.apk",
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.14/FitGym-1.6.14.apk",
     "highlights": [
-      "Si cambias un ejercicio a libras, kilos o bloques en pleno entrenamiento, la próxima vez sale igual",
-      "Ya no hace falta editar el ejercicio para cambiar su unidad"
+      "Solo se abre el ejercicio que estás haciendo; los demás quedan cerrados y se abren al tocarlos",
+      "El muñeco del ejercicio se ve más grande y arriba ves en qué ejercicio vas",
+      "El botón En curso te lleva al ejercicio que estás haciendo",
+      "Botón Minimizar más claro en el cronómetro y el descanso",
+      "Puedes hacer un ejercicio fuera de orden sin perder la serie"
     ]
   },
   "fitgym_gimnasio": {
