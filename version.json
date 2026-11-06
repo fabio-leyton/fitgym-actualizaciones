@@ -1,14 +1,15 @@
 {
   "fitgym": {
-    "version": "1.6.15",
-    "build": 53,
+    "version": "1.7.0",
+    "build": 54,
     "minBuild": 0,
-    "notes": "En los ejercicios por tiempo, el botón de la fila abre la cuenta atrás en vez de terminarla.",
+    "notes": "Nuevo: entrenar en casa con la rutina del día en versión corta, sin máquinas.",
     "sizeMb": 88,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.15/FitGym-1.6.15.apk",
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.7.0/FitGym-1.7.0.apk",
     "highlights": [
-      "En los ejercicios por tiempo, el botón de la fila ahora dice \"Ver reloj\" y abre la cuenta atrás",
-      "Ya no se termina una ronda sin querer: se termina desde la ventana del reloj"
+      "Entrenar en casa: la rutina del día en versión corta, con ejercicios sin máquinas",
+      "Antes de empezar en casa puedes cambiar o quitar cada ejercicio",
+      "Rutina Fuerza general renovada: flexiones, dominadas, fondos en paralelas y peso muerto"
     ]
   },
   "fitgym_gimnasio": {
