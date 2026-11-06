@@ -1,17 +1,14 @@
 {
   "fitgym": {
-    "version": "1.6.14",
-    "build": 52,
+    "version": "1.6.15",
+    "build": 53,
     "minBuild": 0,
-    "notes": "Entrenamiento más ordenado: solo se abre el ejercicio que estás haciendo y el muñeco se ve más grande.",
+    "notes": "En los ejercicios por tiempo, el botón de la fila abre la cuenta atrás en vez de terminarla.",
     "sizeMb": 88,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.14/FitGym-1.6.14.apk",
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.6.15/FitGym-1.6.15.apk",
     "highlights": [
-      "Solo se abre el ejercicio que estás haciendo; los demás quedan cerrados y se abren al tocarlos",
-      "El muñeco del ejercicio se ve más grande y arriba ves en qué ejercicio vas",
-      "El botón En curso te lleva al ejercicio que estás haciendo",
-      "Botón Minimizar más claro en el cronómetro y el descanso",
-      "Puedes hacer un ejercicio fuera de orden sin perder la serie"
+      "En los ejercicios por tiempo, el botón de la fila ahora dice \"Ver reloj\" y abre la cuenta atrás",
+      "Ya no se termina una ronda sin querer: se termina desde la ventana del reloj"
     ]
   },
   "fitgym_gimnasio": {
