@@ -1,15 +1,15 @@
 {
   "fitgym": {
-    "version": "1.7.0",
-    "build": 54,
+    "version": "1.7.1",
+    "build": 55,
     "minBuild": 0,
-    "notes": "Nuevo: entrenar en casa con la rutina del día en versión corta, sin máquinas.",
+    "notes": "Nuevo: entrenar en casa y rutina Fuerza general con dos días de pierna y dos de torso.",
     "sizeMb": 88,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.7.0/FitGym-1.7.0.apk",
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.7.1/FitGym-1.7.1.apk",
     "highlights": [
       "Entrenar en casa: la rutina del día en versión corta, con ejercicios sin máquinas",
       "Antes de empezar en casa puedes cambiar o quitar cada ejercicio",
-      "Rutina Fuerza general renovada: flexiones, dominadas, fondos en paralelas y peso muerto"
+      "Rutina Fuerza general nueva: dos días completos de pierna y dos de torso"
     ]
   },
   "fitgym_gimnasio": {
