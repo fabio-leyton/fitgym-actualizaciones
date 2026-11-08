@@ -12,16 +12,14 @@
     ]
   },
   "fitgym_gimnasio": {
-    "version": "1.3.0",
-    "build": 4,
+    "version": "1.3.1",
+    "build": 5,
     "minBuild": 0,
-    "notes": "Diseño nuevo, igual al de FitGym.",
-    "sizeMb": 51,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/gimnasio-v1.3.0/FitGym-Gimnasio-1.3.0.apk",
+    "notes": "App más liviana: pesa casi la mitad.",
+    "sizeMb": 31,
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/gimnasio-v1.3.1/FitGym-Gimnasio-1.3.1.apk",
     "highlights": [
-      "Diseño nuevo, igual al de FitGym",
-      "Activar y Clientes en pestañas separadas",
-      "Historial con etiqueta de Vigente o Vencido"
+      "FitGym Gimnasio pesa casi la mitad: se descarga más rápido y ocupa menos espacio"
     ]
   },
   "fitgym_gimnasio_pc": {
