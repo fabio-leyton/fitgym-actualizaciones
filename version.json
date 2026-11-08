@@ -23,15 +23,14 @@
     ]
   },
   "fitgym_gimnasio_pc": {
-    "version": "1.3.0",
-    "build": 4,
+    "version": "1.3.1",
+    "build": 5,
     "minBuild": 0,
-    "notes": "Diseño nuevo, igual al de FitGym.",
+    "notes": "Mantenimiento: misma versión que la del celular.",
     "sizeMb": 11,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/gimnasio-pc-v1.3.0/FitGym-Gimnasio-PC-1.3.0.exe",
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/gimnasio-pc-v1.3.1/FitGym-Gimnasio-PC-1.3.1.exe",
     "highlights": [
-      "Diseño nuevo, igual al de FitGym",
-      "Historial con etiqueta de Vigente o Vencido"
+      "Mantenimiento: queda en la misma versión que la del celular (1.3.1)"
     ]
   }
 }
