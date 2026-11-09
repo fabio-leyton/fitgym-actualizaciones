@@ -1,14 +1,15 @@
 {
   "fitgym": {
-    "version": "1.7.2",
-    "build": 56,
+    "version": "1.8.0",
+    "build": 57,
     "minBuild": 0,
-    "notes": "App más liviana (un tercio menos) y menos gasto de batería.",
+    "notes": "Los recordatorios llegan a su hora, menú en todas las secciones y Hábitos pasa a Agua.",
     "sizeMb": 56,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.7.2/FitGym-1.7.2.apk",
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.8.0/FitGym-1.8.0.apk",
     "highlights": [
-      "FitGym pesa un tercio menos: se descarga más rápido y ocupa menos espacio",
-      "Gasta menos batería: las animaciones ya no se quedan moviéndose sin parar"
+      "Los recordatorios de agua, entrenar y peso llegan a su hora, sin abrir la app",
+      "Menú ☰ en Logros, Ejercicios, Perfil, Agua, Calculadoras y Ajustes",
+      "Hábitos ahora es Agua: más sencilla y con un gráfico de la semana"
     ]
   },
   "fitgym_gimnasio": {
