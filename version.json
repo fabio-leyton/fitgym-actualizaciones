@@ -1,15 +1,15 @@
 {
   "fitgym": {
-    "version": "1.8.0",
-    "build": 57,
+    "version": "1.9.0",
+    "build": 58,
     "minBuild": 0,
-    "notes": "Los recordatorios llegan a su hora, menú en todas las secciones y Hábitos pasa a Agua.",
-    "sizeMb": 56,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.8.0/FitGym-1.8.0.apk",
+    "notes": "FitGym ahora es libre (sin código de activación), más liviana y solo para celulares de 64 bits.",
+    "sizeMb": 34,
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.9.0/FitGym-1.9.0.apk",
     "highlights": [
-      "Los recordatorios de agua, entrenar y peso llegan a su hora, sin abrir la app",
-      "Menú ☰ en Logros, Ejercicios, Perfil, Agua, Calculadoras y Ajustes",
-      "Hábitos ahora es Agua: más sencilla y con un gráfico de la semana"
+      "FitGym ahora es libre: ya no pide código de activación ni periodo de prueba",
+      "Si tu app era la de un gimnasio, pasa a ser la FitGym de siempre, sin el logo ni los colores del gimnasio; tus datos se conservan",
+      "Más liviana: pesa casi la mitad y es solo para celulares de 64 bits"
     ]
   },
   "fitgym_gimnasio": {
