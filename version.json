@@ -1,15 +1,16 @@
 {
   "fitgym": {
-    "version": "1.9.0",
-    "build": 58,
+    "version": "1.10.0",
+    "build": 59,
     "minBuild": 0,
-    "notes": "FitGym ahora es libre (sin código de activación), más liviana y solo para celulares de 64 bits.",
-    "sizeMb": 34,
-    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.9.0/FitGym-1.9.0.apk",
+    "notes": "Aviso fuerte en el gym con sonidos para elegir, vuelta al ejercicio que saltaste y aviso de calentar.",
+    "sizeMb": 34.5,
+    "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.10.0/FitGym-1.10.0.apk",
     "highlights": [
-      "FitGym ahora es libre: ya no pide código de activación ni periodo de prueba",
-      "Si tu app era la de un gimnasio, pasa a ser la FitGym de siempre, sin el logo ni los colores del gimnasio; tus datos se conservan",
-      "Más liviana: pesa casi la mitad y es solo para celulares de 64 bits"
+      "Aviso fuerte en el gym: el fin del descanso suena con el volumen de alarma y vibra más largo",
+      "Elige el sonido en Ajustes → Entrenamiento: campana, marimba, campana de boxeo o rock",
+      "Si saltaste un ejercicio porque la máquina estaba ocupada, la app te lleva a él antes de estirar",
+      "Si vas a empezar sin calentar, la app te pregunta una vez"
     ]
   },
   "fitgym_gimnasio": {
