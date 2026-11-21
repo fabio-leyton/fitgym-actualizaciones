@@ -4,7 +4,7 @@
     "build": 59,
     "minBuild": 0,
     "notes": "Aviso fuerte en el gym con sonidos para elegir, vuelta al ejercicio que saltaste y aviso de calentar.",
-    "sizeMb": 34.5,
+    "sizeMb": 35,
     "apk": "https://github.com/fabio-leyton/fitgym-actualizaciones/releases/download/v1.10.0/FitGym-1.10.0.apk",
     "highlights": [
       "Aviso fuerte en el gym: el fin del descanso suena con el volumen de alarma y vibra más largo",
